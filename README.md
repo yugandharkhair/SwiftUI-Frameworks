@@ -1,9 +1,9 @@
 # SwiftUI-Frameworks
 
-Another great beginner level app from Sean Allen's course. This app cleared a lot of fundamental things and also messed up my brain a few times ngl. Following are the features in the app-
-1. Contains a grid of different frameworks offered by Apple (We can customize them to be anything we want)
-2. Those can be clicked to open a detailed view
-3. Can click the 'learn more' button to further open a Safari webpage
+Another great beginner level app from Sean Allen's course. This app cleared a lot of fundamental things and also messed up my brain a few times ngl. Following are the features in the app- <br>
+Contains a grid of different frameworks offered by Apple (We can customize them to be anything we want)<br>
+Those can be clicked to open a detailed view<br>
+Can click the 'learn more' button to further open a Safari webpage<br>
 <br>
 My learnings from this app-
 - Learnt about LazyVGrid and LazyHGrid
