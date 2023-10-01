@@ -15,6 +15,6 @@ Overall, I feel this app was a bit challenging, but definately introduced me to 
 <br>
 <br>
 Here's the app! 🍎👇
-
+<br>
 
 ![Frameworks-GIF](https://github.com/yugga18/SwiftUI-Frameworks/assets/57190634/31dcb7ec-bae9-423d-8f80-70aa655ee367)
