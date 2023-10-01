@@ -7,12 +7,12 @@ Another great beginner level app from Sean Allen's course. This app cleared a lo
 <br>
 <br>
 My learnings from this app-
-* Learnt about LazyVGrid and LazyHGrid
-* Implemented a ForEach loop to loop through the array of the data
-* Added a NavigationView, later to be updated to the newest NavigationStack (iOS 16)
-* Implmented sheets
-* Understood (a little bit) about MVVM and moving data around.
-* Tried to understand UIKit integration by adding the SafariViewController
+- Learnt about LazyVGrid and LazyHGrid
+- Implemented a ForEach loop to loop through the array of the data
+- Added a NavigationView, later to be updated to the newest NavigationStack (iOS 16)
+- Implmented sheets
+- Understood (a little bit) about MVVM and moving data around.
+- Tried to understand UIKit integration by adding the SafariViewController
 <br>
 <br>
 Overall, I feel this app was a bit challenging, but definately introduced me to the core concepts of an iOS app. I hope these concepts will get more and more clear as I build more and more apps. Cheers!
