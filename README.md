@@ -5,7 +5,6 @@ Another great beginner level app from Sean Allen's course. This app cleared a lo
 * Those can be clicked to open a detailed view
 * Can click the 'learn more' button to further open a Safari webpage
 <br>
-<br>
 My learnings from this app-
 - Learnt about LazyVGrid and LazyHGrid
 - Implemented a ForEach loop to loop through the array of the data
