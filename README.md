@@ -14,5 +14,7 @@ My learnings from this app-
 Overall, I feel this app was a bit challenging, but definately introduced me to the core concepts of an iOS app. I hope these concepts will get more and more clear as I build more and more apps. Cheers!
 <br>
 <br>
-Here's the app! 🍎👇🏼
-![Frameworks-GIF](https://github.com/yugga18/SwiftUI-Frameworks/assets/57190634/cfecfd36-ec13-4607-bbf2-c2dadf2dce08)
+Here's the app! 🍎👇
+
+
+![Frameworks-GIF](https://github.com/yugga18/SwiftUI-Frameworks/assets/57190634/31dcb7ec-bae9-423d-8f80-70aa655ee367)
